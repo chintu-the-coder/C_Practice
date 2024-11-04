@@ -8,6 +8,10 @@ printf("you are in australia\n");
 england ();
 return;
 }
+int getName(char s){
+
+    
+}
 void india(){
 printf("you are in india\n");
 australia ();
@@ -17,4 +21,3 @@ int main(){
     india();
     return 0;
 }
-
